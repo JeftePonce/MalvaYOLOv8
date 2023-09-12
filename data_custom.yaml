@@ -1,0 +1,6 @@
+train: C:\Users\jefte\OneDrive\Escritorio\ultralytics-main\train
+val: C:\Users\jefte\OneDrive\Escritorio\ultralytics-main\valid
+
+nc: 2
+
+names: ["malvaBuena", "malvaMala"]
